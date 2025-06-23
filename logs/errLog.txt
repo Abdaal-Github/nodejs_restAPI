@@ -1,0 +1,61 @@
+20250608	16:50:27	b08388e3-e0ea-4936-a465-afca68dfed55	Error: Not allowed by CORS
+20250608	16:50:29	7718bbb1-7198-459e-964d-b55223ff64ed	Error: Not allowed by CORS
+20250608	21:26:48	00ff49bb-48ed-4837-b0f8-3052a4fe08a0	ReferenceError: s is not defined
+20250609	11:13:14	c3347255-a663-46d0-9052-5675ea7622bc	Error: ENOENT: no such file or directory, stat '/Users/abdali.khattak/Documents/XP/Nodejs Dave Gray/06tut/routes/views/index.html'
+20250609	12:34:58	a8f70f88-0e3a-4721-a86c-42df5fc22529	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250609	12:35:30	a6fb338b-32ae-4452-9987-c293b4fd7b76	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250609	12:37:03	31fd60c3-7bf4-4b39-b304-0826d11a6b56	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250609	12:43:29	33091679-b40b-476f-a690-36f5535f0f23	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250609	12:46:11	9f9b33e2-f075-4aeb-a1f4-f50fbcb908ff	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250609	12:50:06	c20f483a-a572-47b2-9ef0-63d2fe67e0e3	SyntaxError: Expected ',' or '}' after property value in JSON at position 30 (line 3 column 9)
+20250610	03:01:50	f3dfd403-0963-4a6d-90c0-ca91d7ceebf5	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:02:15	90398197-cbdb-46a0-b9d9-97098beff920	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:02:32	2065653a-3e66-4f01-b90b-826ef6334e80	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:02:33	53731b68-4a54-4a26-97af-cfaf86569792	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:02:33	03c204c1-1492-4882-845d-c0d6b0644b55	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:03:06	fdee4a2b-34ac-47b1-aafc-698b20228e77	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:27:39	82893999-0c88-41ac-85e3-3f2506e8ebcb	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:29:49	19da0c5d-fb5a-4d4e-b851-d34ae6444237	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:32:08	630c2588-842c-43fe-9694-13a8354a2fc8	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:32:32	8c55b7f9-52cd-44fc-905f-241605887563	TypeError: Cannot read properties of undefined (reading 'id')
+20250610	03:35:02	9b399f7f-eb0f-47d4-85b6-74f3010bed71	TypeError: Cannot read properties of undefined (reading 'id')
+20250613	16:04:41	03453514-a319-48da-bb4d-1fcfb6d04c72	ReferenceError: bcrypt is not defined
+20250615	16:11:32	f1c4209b-28dc-4c90-9637-3f3168e7eb85	Error: secretOrPrivateKey must have a value
+20250615	16:15:49	ca2d07b7-13c8-4b0e-852b-8e0f44f7a8d8	ReferenceError: foundUser is not defined
+20250615	16:17:13	0bcd98e7-c677-4e03-b201-e021467c3bdd	ReferenceError: foundUser is not defined
+20250615	16:20:11	26524869-cd7c-4230-a531-7bb7b7e5774d	ReferenceError: founduser is not defined
+20250615	16:20:36	dd1413c8-0ef3-43da-8bb2-da068bdf1529	ReferenceError: founduser is not defined
+20250615	16:24:14	110c11d9-afc0-4547-a876-730ac01d2ddb	TypeError: Cannot read properties of null (reading 'username')
+20250615	16:24:20	fadd33eb-7aff-4f03-893c-bed5e11d221e	TypeError: Cannot read properties of null (reading 'username')
+20250615	16:25:51	72fee8a0-873b-4437-b9bc-b79f8210390e	TypeError: Cannot read properties of null (reading 'username')
+20250615	16:28:54	ad896303-2b7b-4fa9-ab26-aedc08e31027	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20250615	16:36:43	2287ddf3-2365-4a03-9fc3-b2cdfecd026a	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250615	16:39:12	57ea6e9e-aec2-437f-8987-44946c3cb991	ReferenceError: next is not defined
+20250615	16:40:12	289e0194-61bc-4f0f-a451-33b93fa39dd7	TypeError: Cannot read properties of null (reading 'username')
+20250615	16:48:11	d3ebebfb-1c00-4760-a9c7-53394b7218a4	TypeError: Cannot read properties of null (reading 'username')
+20250615	17:01:43	e2c487c4-9918-4356-a540-115f78df0a36	Error: data and hash arguments required
+20250615	17:03:30	6069c8c1-e0ea-47a0-b7bb-3f1d356f63ca	Error: data and hash arguments required
+20250615	17:03:48	0c1c18e4-3827-4bc2-8ccd-83117f98abf5	Error: data and hash arguments required
+20250615	23:50:48	2a86c22e-60c1-4ab9-90aa-4cecf9409ff4	TypeError: Cannot read properties of null (reading 'username')
+20250615	23:56:03	20feb604-00f7-445d-8bc8-6d3bca1cea92	TypeError: Cannot read properties of null (reading 'refreshToken')
+20250616	00:01:41	3c101a93-b267-40b5-9ab2-cff414f93e35	TypeError: Cannot read properties of null (reading 'username')
+20250616	00:02:42	6189f82f-0446-4628-8ab9-7b8082d87a72	TypeError: Cannot read properties of null (reading 'refreshToken')
+20250616	00:07:58	8e54bfb9-a89e-49fc-b8ae-a1a0f1940382	TypeError: Cannot read properties of null (reading 'username')
+20250616	00:08:53	2e0b7219-8655-4136-9bd2-e3af3f0327e2	TypeError: Cannot read properties of null (reading 'username')
+20250616	00:08:59	5355d562-3859-4438-bdca-866559f473f6	TypeError: Cannot read properties of null (reading 'username')
+20250616	00:09:47	406a71a3-7f4b-4b7b-9008-f52117e100a8	TypeError: Cannot read properties of null (reading 'refreshToken')
+20250616	00:10:06	0ed270b8-cfdb-48c1-8749-90d6575729d8	TypeError: Cannot read properties of null (reading 'username')
+20250616	00:14:05	85f24e12-eff4-411f-ad6e-10a79c8452df	TypeError: Cannot read properties of null (reading 'username')
+20250616	00:14:31	bf2a427f-83c9-4934-8df6-b1899c56f761	TypeError: otherUsers.currentUser is not iterable
+20250616	00:18:13	0b33e8a8-1ca0-44c3-84eb-3a16bcea8391	TypeError: otherUsers.currentUser is not iterable
+20250616	02:33:06	b78f1a6d-338f-4385-8cc2-8d8e192c3e3b	ReferenceError: person is not defined
+20250617	02:20:41	2079f7fd-ba79-4282-9070-0c147823bd55	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250617	02:28:20	661f0747-70c2-4d8a-8c44-d04598d58183	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250617	02:29:23	5a5c461a-e91f-4640-b317-94217edc9f02	SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+20250623	14:21:03	4e86e735-6e09-479d-a4cc-659251664d22	ReferenceError: refreshToken is not defined
+20250623	14:21:26	365a3d03-b2a2-46f5-ae7a-71e01d3779f9	ReferenceError: refreshToken is not defined
+20250623	14:21:49	2ae69e86-656e-4b3d-8ec5-329a6d16bcf6	ReferenceError: refreshToken is not defined
+20250623	14:25:47	34908bdc-06fc-4d91-bc89-6e3c5093c51f	ReferenceError: refreshToken is not defined
+20250623	14:26:05	d254dcd3-ec6f-4ddb-bf7b-220d2f9f8db5	ReferenceError: refreshToken is not defined
+20250623	14:34:48	5f920aa4-8c88-4910-9363-7a7f91638ce1	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250623	16:10:48	37b155aa-0da5-4a4b-ab80-8aa5f5ed31f3	TypeError: Cannot read properties of undefined (reading 'username')
