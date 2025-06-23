@@ -4,3 +4,5 @@
 _Remember to add your .env variables in the deployed version_
 
 **Description:**
+
+Remember to add your own values in the .env file
